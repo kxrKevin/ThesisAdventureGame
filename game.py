@@ -164,7 +164,7 @@ while running:
     if player.inYellow():
         if yellow is False:
             with open("npc1.txt", "a") as file:
-                file.write("\nI have jerked off on the basketball court")            
+                file.write("\nYou Scored 3 Points")            
             yellow = True
             red = False
             blue = False
